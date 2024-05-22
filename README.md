@@ -1,5 +1,5 @@
 ## Hi, I'm Pamela Conti✨👋💻
-![img](https://github.com/Contimp/Contimp/assets/97259938/f0cf5676-72fb-4ca6-9d55-2e37dbc14558)
+![img](https://github.com/Contimp/Contimp/assets/97259938/1e9d07be-5bdb-4cc3-b4d0-b0749f575946)
 
 
 
