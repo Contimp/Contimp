@@ -5,7 +5,7 @@
 
 ## About Me: 
 
-- I'm currently focused on expanding my knowledge and advancing professionally. 👩‍💻📚💼
+- I'm focused on expanding my knowledge and advancing professionally. 👩‍💻📚💼
 - I'm currently expanding my knowledge in backend development to become the ultimate full-stack expert!💪🔙💻
 
 ## Stack👩‍💻: 
