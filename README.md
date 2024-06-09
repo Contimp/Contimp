@@ -1,5 +1,11 @@
-## Hi, I'm Pamela Conti✨👋💻
-![img](https://github.com/Contimp/Contimp/assets/97259938/1e9d07be-5bdb-4cc3-b4d0-b0749f575946)
+<div align="center">
+<h1 align="center"> ✨Hi, I'm Pamela Conti✨👋💻</h1>
+</div>
+
+
+<div align="center">  
+<img align="center" src="https://github.com/Contimp/Contimp/assets/97259938/1e9d07be-5bdb-4cc3-b4d0-b0749f575946">
+</div>
 
 
 
